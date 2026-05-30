@@ -39,7 +39,7 @@ export default function Command() {
       actions={
         <ActionPanel>
           <Action.SubmitForm
-            title="Import Google Authenticator Qr"
+            title="Import Google Authenticator QR"
             onSubmit={handleSubmit}
           />
         </ActionPanel>
